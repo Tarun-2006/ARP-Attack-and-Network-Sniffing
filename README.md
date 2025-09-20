@@ -72,16 +72,19 @@ In windows 7 give the command arp -a
 From weak website login to the website:
 ## OUTPUT:
 
-<img width="1919" height="1012" alt="Screenshot 2025-09-20 084305" src="https://github.com/user-attachments/assets/f2f54546-ecca-4988-9d53-aba58a6f7662" />
+<img width="963" height="657" alt="image" src="https://github.com/user-attachments/assets/a6117e0c-6923-4468-bc9b-f0289dbfd6ba" />
+
 
 
 ## OUTPUT:
-<img width="1867" height="1084" alt="Screenshot 2025-09-20 090559" src="https://github.com/user-attachments/assets/ed1d5200-cbf5-4d37-8d15-54eb157e7be3" />
+<img width="952" height="688" alt="image" src="https://github.com/user-attachments/assets/93e75b67-6d20-4efe-a70b-fd63eb1aaaca" />
+
 
 
 Now using kali linux open the wireshark and segerate the "http"  and see for the Get ip address and follow it oot the http stream
 ## OUTPUT:
-<img width="1918" height="1118" alt="Screenshot 2025-09-20 093232" src="https://github.com/user-attachments/assets/0763dbf6-115e-4c50-afef-4b3eb7bb73f4" />
+<img width="958" height="890" alt="image" src="https://github.com/user-attachments/assets/a539631a-e9d6-43c0-8ad2-48d1e78ac263" />
+
 
 
 ## RESULT:
